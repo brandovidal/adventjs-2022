@@ -3,8 +3,8 @@
     "baseUrl": "src",
     "checkJs": true,
     "module": "es6",
-    "target": "es2022"
+    "target": "ESNext"
   },
   "include": ["src"],
-  "exclude": ["node_modules"]
+  "exclude": ["node_modules", "README.md"]
 }
