@@ -30,8 +30,8 @@ npm run test day01
 | Day | Name                                                                               | Rules                                       | Tests                              | Code                         |
 | --- | ---------------------------------------------------------------------------------- | ------------------------------------------- | ---------------------------------- | ---------------------------- |
 | 1   | [Automating Christmas gift wrapping!](./src/day01/README.md)                       | [rules](https://adventjs.dev/challenges/2022//1) | [tests](./src/day01/index.test.js) | [code](./src/day01/index.js) |
-<!-- | 2   | [¡Ayuda al elfo a listar los regalos!](./src/day02/README.md)                      | [rules](https://adventjs.dev/challenges/2022/02) | [tests](./src/day02/index.test.js) | [code](./src/day02/index.js) |
-| 3   | [El Grinch quiere fastidiar la Navidad](./src/day03/README.md)                     | [rules](https://adventjs.dev/challenges/2022/03) | [tests](./src/day03/index.test.js) | [code](./src/day03/index.js) |
+| 2   | [Nobody wants to do extra hours at work](./src/day02/README.md)                    | [rules](https://adventjs.dev/challenges/2022/02) | [tests](./src/day02/index.test.js) | [code](./src/day02/index.js) |
+<!-- | 3   | [El Grinch quiere fastidiar la Navidad](./src/day03/README.md)                     | [rules](https://adventjs.dev/challenges/2022/03) | [tests](./src/day03/index.test.js) | [code](./src/day03/index.js) |
 | 4   | [¡Es hora de poner la navidad en casa!](./src/day04/README.md)                     | [rules](https://adventjs.dev/challenges/2022/04) | [tests](./src/day04/index.test.js) | [code](./src/day04/index.js) |
 | 5   | [Contando los días para los regalos](./src/day05/README.md)                        | [rules](https://adventjs.dev/challenges/2022/05) | [tests](./src/day05/index.test.js) | [code](./src/day05/index.js) |
 | 6   | [Rematando los exámenes finales](./src/day06/README.md)                            | [rules](https://adventjs.dev/challenges/2022/06) | [tests](./src/day06/index.test.js) | [code](./src/day06/index.js) |
