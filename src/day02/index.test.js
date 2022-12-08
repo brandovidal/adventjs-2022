@@ -22,7 +22,7 @@ const cases = [
 
 ]
 
-describe('Day 1 - AdventJS challengue', () => {
+describe('Day 2 - AdventJS challengue', () => {
   test.each(cases)('$title', ({ year, holidays, expected }) => {
     expect(countHours(year, holidays)).toEqual(expected)
   })
